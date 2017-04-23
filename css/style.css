@@ -1,0 +1,25 @@
+body 
+{
+  background-color:#111025;
+}
+.min{
+  position:absolute;
+  top:48px;
+  left:107px;
+  width:3px;
+  height:25px;
+  background-color:#36BEEF;
+  -webkit-transform-origin: 0% 100%;
+  transform:rotate(0deg);
+}
+
+.sec{
+  position:absolute;
+  top:40px;
+  left:106px;
+  width:1px;
+  height:35px;
+  background-color:#36BEEF;
+  -webkit-transform-origin: 0% 100%;
+  transform:rotate(0deg);
+}
